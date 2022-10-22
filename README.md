@@ -84,7 +84,7 @@ Hepinize başarılar ve kolay gelsin!
 
 ## Cevap
 
-**Dosya için tıklayınız: [index.html](https://github.com/nmelihkutlu/patikaCSS/blob/main/google.html)**
+**Dosya için tıklayınız: [google.html](https://github.com/nmelihkutlu/patikaCSS/blob/main/google.html)**
 
 
 ```html
